@@ -34,6 +34,7 @@ jobs:
         run: python ps5_restock_bot.py ${{ inputs.test && '--test' || '--once' }}
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
 
       - name: Sauvegarder la mémoire du bot
         run: |
