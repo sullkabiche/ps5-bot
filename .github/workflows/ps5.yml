@@ -1,0 +1,43 @@
+name: Surveillance PS5
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      test:
+        description: "Envoyer une notification de test"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ps5
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Lancer le bot
+        run: python ps5_restock_bot.py ${{ inputs.test && '--test' || '--once' }}
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+
+      - name: Sauvegarder la mémoire du bot
+        run: |
+          git config user.name "ps5-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if [ -f ps5_state.json ]; then git add ps5_state.json; fi
+          git diff --cached --quiet || (git commit -m "maj état" && git push)
