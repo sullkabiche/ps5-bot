@@ -10,27 +10,27 @@
     "last_price": null
   },
   "https://www.boulanger.com/ref/1198075": {
-    "fails": 37
+    "fails": 38
   },
   "https://www.boulanger.com/ref/1228868": {
-    "fails": 37
+    "fails": 38
   },
   "https://www.boulanger.com/ref/1231915": {
-    "fails": 37
+    "fails": 38
   },
   "https://www.fnac.com/Console-Sony-PS5-Edition-Digital/a14840008/w-4": {
-    "fails": 37
+    "fails": 38
   },
   "https://www.laposte.fr/boutique/sony-ps5-console-playstation-5-slim-digital-chassis-d-825-go/p/mp-600204570": {
-    "fails": 37
+    "fails": 38
   },
   "https://www.ldlc.com/fiche/PB00583327.html": {
     "alerted": false,
-    "fails": 0,
+    "fails": 1,
     "last_price": 599.95
   },
   "https://www.pccomponentes.fr/chassis-numerique-sony-playstation-5-slim-e": {
-    "fails": 37
+    "fails": 38
   },
   "https://www.pixmania.com/fr/fr/pack-ps5-slim-et-fortnite-cobalt-star-console-de-jeux-playstation-5-slim-digitale-1-to-blanc-342257.html": {
     "alerted": false,
@@ -43,12 +43,116 @@
     "last_price": 599.0
   },
   "liste::https://www.cdiscount.com/jeux-pc-video-console/r-console+de+jeux+playstation+5.html": {
-    "fails": 36
+    "fails": 37
   },
   "liste::https://www.klarna.com/fr/shopping/sp/playstation-5-digital/": {
-    "fails": 36
+    "fails": 0,
+    "items": {
+      "www.klarna.com/fr/shopping/pl/cl52/3211644574/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-1TB/": {
+        "price": 266.33,
+        "title": "Sony PlayStation 5 Slim Digital Edition 1TB (2023) 1 To Stockage Interne 1 451,80 € Ou 3 paiements d",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3211644574/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-1TB/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3378071070/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-1-TB-Fortnite-Cobalt-Star-Edition-White/": {
+        "price": 483.33,
+        "title": "Sony PlayStation 5 Slim Digital Edition 1 TB Fortnite Cobalt Star Edition - White 1 To Stockage Inte",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3378071070/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-1-TB-Fortnite-Cobalt-Star-Edition-White/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3400224410/Consoles-de-jeu/Sony-PlayStation-5-Slim-Edition-numerique-Astro-Bot-Bundle-1-To-Blanc/": {
+        "price": 483.33,
+        "title": "Sony PlayStation 5 Slim (PS5) Digital Edition 1TB - Astro Bot Bundle 1 To Stockage Interne 1 449,99 ",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3400224410/Consoles-de-jeu/Sony-PlayStation-5-Slim-Edition-numerique-Astro-Bot-Bundle-1-To-Blanc/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3404041684/Consoles-de-jeu/Sony-PlayStation-5-Digital-Edition-White-Black/": {
+        "price": 234.82,
+        "title": "Tendance Sony PlayStation 5 Digital Edition - White/Black 1 To Stockage Interne 1 326,92 € Ou 234,82",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3404041684/Consoles-de-jeu/Sony-PlayStation-5-Digital-Edition-White-Black/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3433522879/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825-GB-White/": {
+        "price": 984.09,
+        "title": "Populaire Sony PlayStation 5 Slim Digital Edition 825 GB 825 Go Stockage Interne 984,09 € Ou 3 paiem",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3433522879/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825-GB-White/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3435516576/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825-GB-EA-Sports-FC-26-Bundle/": {
+        "price": 483.33,
+        "title": "Sony PlayStation 5 Slim Digital Edition 825 GB EA Sports FC 26 Bundle 825 Go Stockage Interne 1 449,",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3435516576/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825-GB-EA-Sports-FC-26-Bundle/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3441797775/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-1TB-Fortnite-Flowering-Chaos/": {
+        "price": 499.99,
+        "title": "Sony PlayStation 5 Slim Digital Edition 1 TB - Fortnite Flowering Chaos 1 To Stockage Interne, Inclu",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3441797775/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-1TB-Fortnite-Flowering-Chaos/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3442214561/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825GB-2-DualSense-controllers/": {
+        "price": 1014.9,
+        "title": "Sony PlayStation 5 Slim Digital Edition 825GB 2 DualSense controllers 825 Go Stockage Interne 1 014,",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3442214561/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825GB-2-DualSense-controllers/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3460516940/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-825GB-Fortnite-Flowering-Chaos/": {
+        "price": 283.0,
+        "title": "Sony PlayStation 5 (PS5) Slim Digital Edition 825GB - Fortnite Flowering Chaos 825 Go Stockage Inter",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3460516940/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-825GB-Fortnite-Flowering-Chaos/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3598196321/Consoles-de-jeu/Sony-PlayStation-5-Digital-Edition-Wolverine-825-GB/": {
+        "price": 500.0,
+        "title": "Sony PlayStation 5 Slim Digital Edition 825 GB - Marvel’s Wolverine Battle Yellow Limited Edition Bu",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3598196321/Consoles-de-jeu/Sony-PlayStation-5-Digital-Edition-Wolverine-825-GB/"
+      }
+    }
   },
   "liste::https://www.klarna.com/fr/shopping/sp/ps5-digital-edition/": {
-    "fails": 36
+    "fails": 0,
+    "items": {
+      "www.klarna.com/fr/shopping/pl/cl52/3211644574/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-1TB/": {
+        "price": 266.33,
+        "title": "Sony PlayStation 5 Slim Digital Edition 1TB (2023) 1 To Stockage Interne 1 451,80 € Ou 3 paiements d",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3211644574/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-1TB/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3378071070/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-1-TB-Fortnite-Cobalt-Star-Edition-White/": {
+        "price": 483.33,
+        "title": "Sony PlayStation 5 Slim Digital Edition 1 TB Fortnite Cobalt Star Edition - White 1 To Stockage Inte",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3378071070/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-1-TB-Fortnite-Cobalt-Star-Edition-White/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3400224410/Consoles-de-jeu/Sony-PlayStation-5-Slim-Edition-numerique-Astro-Bot-Bundle-1-To-Blanc/": {
+        "price": 483.33,
+        "title": "Sony PlayStation 5 Slim (PS5) Digital Edition 1TB - Astro Bot Bundle 1 To Stockage Interne 1 449,99 ",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3400224410/Consoles-de-jeu/Sony-PlayStation-5-Slim-Edition-numerique-Astro-Bot-Bundle-1-To-Blanc/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3404041684/Consoles-de-jeu/Sony-PlayStation-5-Digital-Edition-White-Black/": {
+        "price": 234.82,
+        "title": "Tendance Sony PlayStation 5 Digital Edition - White/Black 1 To Stockage Interne 1 326,92 € Ou 234,82",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3404041684/Consoles-de-jeu/Sony-PlayStation-5-Digital-Edition-White-Black/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3433522879/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825-GB-White/": {
+        "price": 984.09,
+        "title": "Populaire Sony PlayStation 5 Slim Digital Edition 825 GB 825 Go Stockage Interne 984,09 € Ou 3 paiem",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3433522879/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825-GB-White/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3435516576/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825-GB-EA-Sports-FC-26-Bundle/": {
+        "price": 483.33,
+        "title": "Sony PlayStation 5 Slim Digital Edition 825 GB EA Sports FC 26 Bundle 825 Go Stockage Interne 1 449,",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3435516576/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825-GB-EA-Sports-FC-26-Bundle/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3441797775/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-1TB-Fortnite-Flowering-Chaos/": {
+        "price": 499.99,
+        "title": "Sony PlayStation 5 Slim Digital Edition 1 TB - Fortnite Flowering Chaos 1 To Stockage Interne, Inclu",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3441797775/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-1TB-Fortnite-Flowering-Chaos/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3442214561/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825GB-2-DualSense-controllers/": {
+        "price": 1014.9,
+        "title": "Sony PlayStation 5 Slim Digital Edition 825GB 2 DualSense controllers 825 Go Stockage Interne 1 014,",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3442214561/Consoles-de-jeu/Sony-PlayStation-5-Slim-Digital-Edition-825GB-2-DualSense-controllers/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3460516940/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-825GB-Fortnite-Flowering-Chaos/": {
+        "price": 283.0,
+        "title": "Sony PlayStation 5 (PS5) Slim Digital Edition 825GB - Fortnite Flowering Chaos 825 Go Stockage Inter",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3460516940/Consoles-de-jeu/Sony-PlayStation-5-%28PS5%29-Slim-Digital-Edition-825GB-Fortnite-Flowering-Chaos/"
+      },
+      "www.klarna.com/fr/shopping/pl/cl52/3598196321/Consoles-de-jeu/Sony-PlayStation-5-Digital-Edition-Wolverine-825-GB/": {
+        "price": 500.0,
+        "title": "Sony PlayStation 5 Slim Digital Edition 825 GB - Marvel’s Wolverine Battle Yellow Limited Edition Bu",
+        "url": "https://www.klarna.com/fr/shopping/pl/cl52/3598196321/Consoles-de-jeu/Sony-PlayStation-5-Digital-Edition-Wolverine-825-GB/"
+      }
+    }
   }
 }
