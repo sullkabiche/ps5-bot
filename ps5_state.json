@@ -10,19 +10,19 @@
     "last_price": null
   },
   "https://www.boulanger.com/ref/1198075": {
-    "fails": 36
+    "fails": 37
   },
   "https://www.boulanger.com/ref/1228868": {
-    "fails": 36
+    "fails": 37
   },
   "https://www.boulanger.com/ref/1231915": {
-    "fails": 36
+    "fails": 37
   },
   "https://www.fnac.com/Console-Sony-PS5-Edition-Digital/a14840008/w-4": {
-    "fails": 36
+    "fails": 37
   },
   "https://www.laposte.fr/boutique/sony-ps5-console-playstation-5-slim-digital-chassis-d-825-go/p/mp-600204570": {
-    "fails": 36
+    "fails": 37
   },
   "https://www.ldlc.com/fiche/PB00583327.html": {
     "alerted": false,
@@ -30,7 +30,7 @@
     "last_price": 599.95
   },
   "https://www.pccomponentes.fr/chassis-numerique-sony-playstation-5-slim-e": {
-    "fails": 36
+    "fails": 37
   },
   "https://www.pixmania.com/fr/fr/pack-ps5-slim-et-fortnite-cobalt-star-console-de-jeux-playstation-5-slim-digitale-1-to-blanc-342257.html": {
     "alerted": false,
@@ -43,12 +43,12 @@
     "last_price": 599.0
   },
   "liste::https://www.cdiscount.com/jeux-pc-video-console/r-console+de+jeux+playstation+5.html": {
-    "fails": 35
+    "fails": 36
   },
   "liste::https://www.klarna.com/fr/shopping/sp/playstation-5-digital/": {
-    "fails": 35
+    "fails": 36
   },
   "liste::https://www.klarna.com/fr/shopping/sp/ps5-digital-edition/": {
-    "fails": 35
+    "fails": 36
   }
 }
